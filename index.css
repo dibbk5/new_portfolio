@@ -1,5 +1,10 @@
 body {
     background-color: #202124;
+    color: white;
+}
+
+.vid-background {
+    background-color: rgba(99, 99, 101, 0.264);
 }
 
 .icons {
@@ -8,5 +13,5 @@ body {
 }
 
 #logo {
-    width: 5%;
+    width: 7%;
 }
