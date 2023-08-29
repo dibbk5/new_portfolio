@@ -3,6 +3,12 @@ body {
     color: white;
 }
 
+.btn-primary {
+    color: white;
+    background-color: #202124;
+    border-color: white;
+}
+
 .vid-background {
     background-color: rgba(99, 99, 101, 0.264);
 }
